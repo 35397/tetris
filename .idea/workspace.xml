@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50402575-6631-4202-b8b7-d8582d06611d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/app/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gui/GameOverPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gui/GuiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gui/NotificationPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/ClearRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/DownData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/MatrixOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/SimpleBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/ViewData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/BrickGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/IBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/JBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/LBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/OBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/RandomBrickGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/SBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/TBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/bricks/ZBrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/events/EventSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/events/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/events/InputEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/events/MoveEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/rotator/BrickRotator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/logic/rotator/NextShapeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tetris/application.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tetris/backgroundImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/tetris/window_style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package-info" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2g8s4uOB33Ei69NjnEylVZrM8Vo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Tetris.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/Javafx-Tetris-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.60114944",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\Tetris\src" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Tetris\src\main\resources\com\example\tetris" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Tetris" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50402575-6631-4202-b8b7-d8582d06611d" name="Changes" comment="" />
+      <created>1715090350970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715090350970</updated>
+      <workItem from="1715090352092" duration="2056000" />
+      <workItem from="1715933474432" duration="201000" />
+      <workItem from="1716030715200" duration="28000" />
+      <workItem from="1716134606636" duration="660000" />
+      <workItem from="1716198167128" duration="11295000" />
+      <workItem from="1716222234064" duration="47000" />
+      <workItem from="1716222749699" duration="44000" />
+      <workItem from="1716225420320" duration="1044000" />
+      <workItem from="1716226840207" duration="60000" />
+      <workItem from="1716296451964" duration="2749000" />
+      <workItem from="1716300013911" duration="4040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
